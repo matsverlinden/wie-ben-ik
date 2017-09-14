@@ -1,0 +1,13 @@
+body {
+	background-color: aqua;
+}
+h1 {
+	color: indigo;
+}
+p {
+	color: indigo;
+	font-size: 120%;
+}
+img { 
+	border-radius: 10px;
+}
